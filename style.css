@@ -1,0 +1,28 @@
+body {
+    background-color: #e74c3c;
+}
+
+h1 {
+    font-family: 'Lobster', 'cursive';
+}
+
+#title {
+    font-size: 5rem;
+}
+
+.newQoute {
+    color: white;
+    background-color: #e74c3c;
+}
+
+.qouteText {
+    color: #e74c3c;
+}
+
+.fa-facebook, .fa-twitter {
+    color: white;
+}
+
+.btn-fb, .btn-tw {
+    background-color: #e74c3c;
+}
